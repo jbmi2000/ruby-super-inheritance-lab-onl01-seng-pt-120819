@@ -9,7 +9,7 @@ class ChattyStudent < Student
     super
     counter = 10
     if counter >0
-      p "Pick me!"
+      puts "Pick me!"
       counter -= 1
     end
   end
