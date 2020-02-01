@@ -7,11 +7,16 @@ class ChattyStudent < Student
 
   def raise_hand
     super
-    counter = 10
-    if counter >0
-      puts "Pick me!"
-      counter -= 1
-    end
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
+     puts "Pick me!"
   end
 
 
